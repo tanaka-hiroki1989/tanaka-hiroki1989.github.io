@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hiroki Tanaka&#39;s Web Site</title>
+    <title>Categories on 田中博基の簡素なWebサイト</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Hiroki Tanaka&#39;s Web Site</description>
+    <description>Recent content in Categories on 田中博基の簡素なWebサイト</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
