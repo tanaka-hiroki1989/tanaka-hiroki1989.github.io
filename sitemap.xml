@@ -7,11 +7,23 @@
   </url>
   
   <url>
+    <loc>/posts/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
   <url>
     <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/achivement/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/profile/</loc>
   </url>
   
 </urlset>
