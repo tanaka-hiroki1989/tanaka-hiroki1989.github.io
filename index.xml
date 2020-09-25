@@ -11,12 +11,14 @@
     
     
     <item>
-      <title>研究業績</title>
+      <title>研究業績（整理中）</title>
       <link>/posts/achivement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/achivement/</guid>
-      <description>整理中</description>
+      <description>予稿：国際会議（査読あり）
+Sho Araki, Hiroki Tanaka, Masami Takata, Kinji Kimura, Yoshimasa Nakamura, Fast computation method of column space by using the DQDS method and the OQDS method, Proceedings of 2018 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2018), II, 333-339, 2018.
+Masami Takata, Hiroyuki Ishigami, Kinji Kimura, Yuki Fujii, Hiroki Tanaka, Yoshimasa Nakamura, Performance Evaluation of Golub-Kahan-Lanczos Algorithm with Reorthogonalization by Classical Gram-Schmidt Algorithm and OpenMP, Proceedings of 2015 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2015), Vol.</description>
     </item>
     
     <item>
