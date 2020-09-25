@@ -19,11 +19,15 @@
   </url>
   
   <url>
-    <loc>/posts/achivement/</loc>
+    <loc>/posts/research_performance/</loc>
   </url>
   
   <url>
-    <loc>/posts/profile/</loc>
+    <loc>/posts/history/</loc>
+  </url>
+  
+  <url>
+    <loc>/posts/work_experience/</loc>
   </url>
   
 </urlset>

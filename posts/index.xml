@@ -12,10 +12,10 @@
     
     <item>
       <title>研究業績（整理中）</title>
-      <link>/posts/achivement/</link>
+      <link>/posts/research_performance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/achivement/</guid>
+      <guid>/posts/research_performance/</guid>
       <description>予稿：国際会議（査読あり）
 Sho Araki, Hiroki Tanaka, Masami Takata, Kinji Kimura, Yoshimasa Nakamura, Fast computation method of column space by using the DQDS method and the OQDS method, Proceedings of 2018 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2018), II, 333-339, 2018.
 Masami Takata, Hiroyuki Ishigami, Kinji Kimura, Yuki Fujii, Hiroki Tanaka, Yoshimasa Nakamura, Performance Evaluation of Golub-Kahan-Lanczos Algorithm with Reorthogonalization by Classical Gram-Schmidt Algorithm and OpenMP, Proceedings of 2015 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2015), Vol.</description>
@@ -23,17 +23,25 @@ Masami Takata, Hiroyuki Ishigami, Kinji Kimura, Yuki Fujii, Hiroki Tanaka, Yoshi
     
     <item>
       <title>経歴</title>
-      <link>/posts/profile/</link>
+      <link>/posts/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/profile/</guid>
+      <guid>/posts/history/</guid>
       <description>2008.4 − 2013.3 京都大学 工学部 情報学科 学部生
-2013.4 - 2015.3 京都大学 情報学研究科 数理工学専攻 修士課程学生
-2015.4 - 2017.3 株式会社NSソリューションズ関西
-2017.4 - 現在 個人事業主として活動
-2017.8 - 2018.3 立命館大学 立命館グローバル・イノベーション機構 補助研究員
-2018.4 - 2020.3 立命館大学 総合科学技術研究機構 補助研究員
-2020.4 - 現在 京都大学 医学研究科 人間健康科学専攻 博士後期課程学生</description>
+ 2009.4 数理工学コース配属 2012.4 応用数学講座 数理解析分野（中村・辻本研究室）配属    2013.4 - 2015.3 京都大学 情報学研究科 数理工学専攻 修士課程学生
+ 学部から引き続き, 数理解析分野（中村・辻本研究室）に所属    2015.4 - 2017.3 株式会社NSソリューションズ関西 システムエンジニアとして勤務
+ 2015.8 ソリューション第二部（当時） 配属 2017.3 自己都合退社    2017.4 - 現在 個人事業主として活動
+ Web制作, ディープラーニングに関するリサーチなど    2017.8 - 2018.3 立命館大学 立命館グローバル・イノベーション研究機構 補助研究員
+ 受入教員 情報理工学研究科 創発システム研究室 谷口忠大教授    2018.4 - 2020.</description>
+    </item>
+    
+    <item>
+      <title>職務経歴</title>
+      <link>/posts/work_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/work_experience/</guid>
+      <description></description>
     </item>
     
   </channel>
