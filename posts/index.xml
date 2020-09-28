@@ -11,19 +11,16 @@
     
     
     <item>
-      <title>研究業績（整理中）</title>
-      <link>/posts/research_performance/</link>
+      <title>ビブリオバトル戦績（整理中）</title>
+      <link>/posts/bibliobattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/research_performance/</guid>
-      <description>学術論文  Yuuki Tada, Hiroki Tanaka, Yoshinobu Hagiwara and Tadahiro Taniguchi,
-Robust Understanding of Robot-Directed Speech Commands Using Sequence to Sequence With Noise Injection,
-Frontiers in Robotics and AI, 6(144), pp.1-12, 2020.  予稿：国際会議（査読あり）   Sho Araki, Hiroki Tanaka, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
-Fast computation method of column space by using the DQDS method and the OQDS method, Proceedings of 2018 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2018), II, 333-339, 2018.</description>
+      <guid>/posts/bibliobattle/</guid>
+      <description>整理中 </description>
     </item>
     
     <item>
-      <title>経歴</title>
+      <title>学歴・職歴</title>
       <link>/posts/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -37,7 +34,28 @@ Fast computation method of column space by using the DQDS method and the OQDS me
     </item>
     
     <item>
-      <title>職務経歴</title>
+      <title>書評（準備中）</title>
+      <link>/posts/book_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/book_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>研究業績（整理中）</title>
+      <link>/posts/research_performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/research_performance/</guid>
+      <description>学術論文  Yuuki Tada, Hiroki Tanaka, Yoshinobu Hagiwara and Tadahiro Taniguchi,
+Robust Understanding of Robot-Directed Speech Commands Using Sequence to Sequence With Noise Injection,
+Frontiers in Robotics and AI, 6(144), pp.1-12, 2020.  予稿：国際会議（査読あり）   Sho Araki, Hiroki Tanaka, Masami Takata, Kinji Kimura, Yoshimasa Nakamura,
+Fast computation method of column space by using the DQDS method and the OQDS method, Proceedings of 2018 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2018), II, 333-339, 2018.</description>
+    </item>
+    
+    <item>
+      <title>職務経験</title>
       <link>/posts/work_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
