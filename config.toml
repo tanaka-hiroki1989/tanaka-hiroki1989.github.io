@@ -1,0 +1,17 @@
+languageCode = "ja"
+title = "田中博基の簡素なWebサイト"
+baseURL = "https://tanaka-hiroki1989.github.io/"
+canonifyurls = true
+publishDir = "docs"
+theme = "m10c"
+
+[params]
+  author = "Hiroki Tanaka"
+  description = "蛇が脱皮して旧い皮を捨て去るようなものである."
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/tanaka-hiroki1989"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/HirokichiTanaka"
+
