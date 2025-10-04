@@ -6,5 +6,5 @@ theme = "m10c"
 [params]
   author = "Hiroki Tanaka"
   description = "蛇が脱皮して旧い皮を捨て去るようなものである."
-
+  customCSS = ["css/custom.css"]
 
