@@ -3,7 +3,7 @@ Title = "経歴（学歴・職歴）"
 weight=10
 +++
 
-# 学歴
+## 学歴
 - 2008.4 − 2013.3 [京都大学](https://www.kyoto-u.ac.jp/ja)
 [工学部](https://www.t.kyoto-u.ac.jp/ja)
 [情報学科](https://www.s-im.t.kyoto-u.ac.jp/ja)
@@ -26,7 +26,7 @@ weight=10
     - [臨床看護学講座 ビッグデータ医科学分野（奥野研）](http://clinfo.med.kyoto-u.ac.jp/)
      所属
     - 学位を取得せず中途退学
-# 職歴
+## 職歴
 - 2015.4 - 2017.3 
 [株式会社NSソリューションズ関西](https://www.nssol.nipponsteel.com/kansai/) 
 システムエンジニアとして勤務
